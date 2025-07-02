@@ -36,7 +36,7 @@ Aggregated metrics:
 Mean of column A
 Sum or count of column B
 ## Output was a concise summary table with grouped insights
-![Dashboard](Analysis.png)
+![Dashboard](Dask-Data.png)
 
 📈 Insights
 Category Z has the highest average in metric A (0.5492)
